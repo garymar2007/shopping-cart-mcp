@@ -90,6 +90,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+        <finalName>shopping-cart-server</finalName>
 	</build>
 
 </project>
